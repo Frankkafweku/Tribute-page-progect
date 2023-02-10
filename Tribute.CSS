@@ -14,7 +14,14 @@
     flex-direction: column;
     
 }
-#hislife{
+#img-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#tribute-info{
     background-color: rgba(158, 157, 157, 0.527);
 }
 ul{
@@ -28,4 +35,7 @@ ul{
 
 #Quote{
     font-style: italic;
+}
+#image{
+    display:block
 }
